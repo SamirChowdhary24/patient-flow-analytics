@@ -1,0 +1,10 @@
+Feature,Impact_Weight,Feature_Label
+Days_Since_Last_Visit_Cleaned,0.4202212141413189,Days Since Previous Visit
+Claim_Cost,0.056907373097917185,Total Claim Cost
+Out_Of_Pocket_Cost,0.017050148066480544,Out-of-Pocket Expense
+Insurance_Coverage,0.007826440262189467,Payer Coverage Amount
+Length_Of_Stay_Hours,0.005776926869334498,Length of Stay (Hours)
+Dept_emergency,0.005260491389496038,Department: Emergency
+Dept_urgentcare,0.0034529895295685063,Department: Urgent Care
+Coverage_Ratio,0.0028129635391391395,Insurance Coverage Ratio
+Dept_inpatient,0.00012147672544020456,Department: Inpatient
